@@ -1,0 +1,32 @@
+[project]
+name = "unraid-utils"
+version = "2.0.0"
+description = "Media management tools for Unraid: hardlinking, auditing, deduplication"
+requires-python = ">=3.11"
+# parse-torrent-title is the maintained MIT fork of the abandoned
+# parse-torrent-name. Both install a top-level `PTN` package and shadow each
+# other, so the old one must never be present; media.assert_correct_parser()
+# checks this at startup.
+dependencies = ["parse-torrent-title>=2.8.2,<3"]
+
+[project.scripts]
+unraid-utils = "unraid_utils.cli:main"
+uutils = "unraid_utils.cli:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-cov", "ruff"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/unraid_utils"]
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-markers"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 90
+target-version = "py311"

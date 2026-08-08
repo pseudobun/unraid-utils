@@ -1,0 +1,574 @@
+###SHOWS###
+11.22.63
+3 Body Problem
+56 Days
+A Knight of the Seven Kingdoms
+A Series of Unfortunate Events
+Adolescence
+After Life
+Ahsoka
+Alien - Earth
+All Her Fault
+Altered Carbon
+American Primeval
+Amy Bradley Is Missing
+Andor
+Anica
+Annika (2021)
+Arcane
+Arrested Development
+As Time Goes By
+As ti tud not padu
+Atlanta
+Attack on Titan
+Avatar - The Last Airbender (2024)
+BEEF
+BLUE EYE SAMURAI
+Baby Reindeer
+Bad Sisters
+Band of Brothers
+Barry
+Beckham
+Behind Her Eyes
+Berlin (2023)
+Besa
+Better Call Saul
+Big Mouth
+Billions
+Black Bird
+Black Mirror
+Blackadder
+Blue Mountain State
+Bob's Burgers
+Brat bratu
+Breaking Bad
+Brooklyn Nine-Nine
+Cape Fear
+Captain Fall
+Carlos Alcaraz - My Way
+Cases of Inspector Vrenko
+Catch-22
+Cell 8
+Chernobyl
+Clarkson's Farm
+Codename - Kids Next Door
+Common Side Effects
+Courage the Cowardly Dog
+Criminal Record
+Cunk on Britain
+Cunk on Earth
+Cyberpunk - Edgerunners
+DI Ray
+DTF St. Louis
+Daisy Jones & The Six
+Daredevil - Born Again
+Dark
+Dark Side of the Ring
+Dekalog
+Derry Girls
+Devs
+Dexter - New Blood
+Disclaimer
+Doctor Who (2023)
+Dope Thief
+Dune - Prophecy
+Echo
+Echoes
+Endeavour
+Eric (2024)
+Euphoria (US)
+Everybody Loves Raymond
+Explained
+Extras
+Fallout
+Family Guy
+Fargo
+Film Club
+Fleabag
+Foundation (2021)
+Friday Night Lights
+From
+Futurama
+Gangs of Galicia
+Gangs of London
+Gen V
+Gilmore Girls
+Gone (2026)
+Grace (2021)
+Granite Harbour
+Griselda
+Haikyuu!!
+Half Man
+Halt and Catch Fire
+Hannah Montana
+Harry & Meghan
+Hawkeye (2021)
+Headspace Guide to Meditation
+Hello Ladies
+Hijack
+Homeland
+House of Hammer
+House of the Dragon
+Human Resources (2022)
+I Love LA
+I Think You Should Leave with Tim Robinson
+I am Groot
+INVINCIBLE (2021)
+Imperfect Women
+Ironheart
+It's Always Sunny in Philadelphia
+JoJo's Bizarre Adventure (2012)
+Juzni vetar. Na granici
+Kaleidoscope (2023)
+Karen Pirie
+Keeping Up Appearances
+Last Tango in Halifax
+Law & Order - Special Victims Unit
+Loki
+Lost
+Love, Death & Robots
+Lupin
+Made in Abyss
+Madoff - The Monster of Wall Street
+Malpractice
+Manhunt (2019)
+MobLand
+Money Heist
+Money, Explained
+Monster (2004)
+Monster (2022)
+Moon Knight
+Mr Inbetween
+Mr. Bean
+Mr. Professor
+Mr. Robot
+Ms. Marvel
+Murder Before Evensong
+Murder in Provence
+Muted
+Narcos
+Nobody Wants This
+Normal People
+ONE PIECE (2023)
+Obi-Wan Kenobi
+One Pace
+One-Punch Man
+Only Murders in the Building
+Our Little Clinic
+Ozark
+Pachinko
+Pam & Tommy
+Parks and Recreation
+Pat & Mat
+Peacemaker
+Peaky Blinders
+Persona
+Phineas and Ferb
+Pieces of Her
+Planet Earth
+Planet Earth II
+Planet Earth III
+Platonic (2023)
+Pluribus
+Presumed Innocent
+Q - Into the Storm
+Rafa
+Reacher
+Reservation Dogs
+Rick and Morty
+Roots
+RuPaul's Drag Race
+Russian Doll
+SAS Rogue Heroes
+Saturday Night Live
+Scarpetta
+Scooby-Doo, Where Are You!
+Sean Combs - The Reckoning
+Secret Invasion
+Severance
+Sex Education
+Sex, Explained
+She-Hulk
+Shetland
+Shōgun
+Silicon Valley
+Silo
+Slow Horses
+Smoke (2025)
+Snowfall (2017)
+Something Very Bad Is Going To Happen
+South Park
+South Wind
+Soviet Jeans
+Spider-Noir
+Squid Game
+Star City
+Stay Close
+Stonemouth
+Stranger Things
+Suburra - Blood on Rome
+Succession
+Such Is Life
+Sugar (2024)
+Super+Natural
+Supernatural
+Svingerji
+Taboo (2017)
+Task
+Taylor Swift - The End of an Era
+Ted Lasso
+Teenage Mutant Ninja Turtles (2003)
+Tehran
+That '70s Show
+That '90s Show
+The American Experiment
+The American Revolution (2025)
+The Bay (2019)
+The Bear
+The Beatles - Get Back
+The Book of Boba Fett
+The Boys
+The Breakthrough
+The Bridge (2011)
+The Celebrity Traitors
+The Chestnut Man
+The Crow Girl
+The Crown
+The Dark Wizard
+The Day of the Jackal
+The Dropout
+The Falcon and the Winter Soldier
+The Gentlemen
+The Grand Tour (2016)
+The Hollow
+The IT Crowd
+The Idol (2023)
+The Killing (2007)
+The Last Dance
+The Last of Us
+The Leftovers
+The Lord of the Rings - The Rings of Power
+The Mandalorian
+The Mind, Explained
+The New Pope
+The Night Agent
+The Office
+The Office (US)
+The Outlaws
+The Outsider
+The Paper (2025)
+The Penguin
+The Perfect Couple
+The Peripheral
+The Pitt
+The Promised Neverland
+The Ricky Gervais Show
+The Sex Lives of College Girls
+The Sixth Commandment
+The Sopranos
+The Studio
+The Summer I Turned Pretty
+The Traitors (UK)
+The Valhalla Murders
+The White Lotus
+The Wire
+The Witcher
+The Woman in the Wall
+The Young Pope
+Tokyo Vice
+Top Gear
+Tour de France - Unchained
+True Detective
+Twin Peaks
+Under the Banner of Heaven
+Upload
+Vera
+WandaVision
+WeCrashed
+Wednesday
+Westworld
+What If…!
+When They See Us
+Widow's Bay
+XO, Kitty
+Yellowjackets
+Yellowstone (2018)
+Yes, Chef!
+Young Sherlock (2026)
+Your Friends & Neighbors
+Yu-Gi-Oh! GX
+ted
+###SEASONDIRS###
+Season 1
+Season 1 - Phantom Blood & Battle Tendency
+Season 10
+Season 11
+Season 12
+Season 13
+Season 14
+Season 15
+Season 16
+Season 17
+Season 18
+Season 19
+Season 2
+Season 2 - Stardust Crusaders
+Season 20
+Season 21
+Season 22
+Season 23
+Season 24
+Season 25
+Season 26
+Season 27
+Season 28
+Season 29
+Season 3
+Season 3 - Diamond is Unbreakable
+Season 30
+Season 31
+Season 32
+Season 33
+Season 34
+Season 35
+Season 36
+Season 4
+Season 4 - Golden Wind
+Season 48
+Season 5
+Season 6
+Season 7
+Season 8
+Season 9
+Specials
+###DOWNLOADS###
+6LACK - Love is the New Gangsta (2026) [FLAC 16-44]
+A.Knight.of.the.Seven.Kingdoms.S01.MULTi.iNTERNAL.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HDR10.REMUX-seedpool
+Annika.2021.S01.1080p.AMZN.WEB-DL.DDP2.0.H.264-SMURF
+Annika.2021.S02.1080p.WEB.h264-EDITH
+Anyone.But.You.2023.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Arrested Development (2003) S05 (2160p NF WEB-DL Hybrid H265 DV HDR DDP 5.1 English - HONE)
+Arrested.Development.S01-S03.1080p.BluRay.REMUX.AVC.LPCM.2.0-NOGRP
+Arrested.Development.S04.1080p.WEB.AV1.Opus.5.1-onlyfaffs
+As Time Goes By S01-S09 WEB-DL 1080p x264 AAC 2.0-InChY
+Avatar.Fire.and.Ash.2025.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Avatar.The.Last.Airbender.S02.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-N1H4L
+Balls.Up.2026.HDR.2160p.WEB.h265-ETHEL
+Before Midnight 2013 REMUX 1080p Bluray AVC DTS-HD.MA 5 1-LEGi0N
+Before.Sunrise.1995.1080p.Bluray.REMUX.AVC.DTS-HD.MA.2.0-4K4U
+Before.Sunset.2004.BluRay.1080p.REMUX.AVC.DTS-HD.MA.5.1-LEGi0N
+Berlin.2023.S02.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-KRATOS
+Cape.Fear.S01E01.Fingers.Toes.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Cape.Fear.S01E02.DV.2160p.WEB.H265-RVKD
+Cape.Fear.S01E03.HDR.2160p.WEB.h265-GRACE
+Cape.Fear.S01E04.2160p.WEB.h265-GRACE
+Cape.Fear.S01E05.2160p.WEB.h265-GRACE
+Cape.Fear.S01E06.HDR.2160p.WEB.h265-GRACE
+Cape.Fear.S01E07.HDR.2160p.WEB.H265-CAKES
+Cape.Fear.S01E08.HDR.2160p.WEB.h265-GRACE
+Cape.Fear.S01E09.HDR.2160p.WEB.H265-CAKES
+Cape.Fear.S01E10.HDR.2160p.WEB.h265-GRACE
+Clarksons.Farm.S05E01.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E02.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E03.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E04.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E05.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E06.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E07.HDR.2160p.WEB.h265-EDITH
+Clarksons.Farm.S05E08.HDR.2160p.WEB.h265-EDITH
+Crime.101.2026.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Criminal.Record.S02E05.1080p.WEB.h264-GRACE
+Criminal.Record.S02E06.1080p.WEB.h264-GRACE
+Criminal.Record.S02E07.DV.2160p.WEB.h265-GRACE
+Criminal.Record.S02E08.Nobody.Dies.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-Kitsune.mkv
+Daft Punk - Discovery (US Advance CD) FLAC
+Dark.Side.Of.The.Ring.S07E01.Jeff.Jarrett.and.The.Battle.for.TNA.Part.1.1080p.WEB.H264-XWT
+Dark.Side.Of.The.Ring.S07E02.Jeff.Jarrett.and.The.Battle.for.TNA.Part.2.1080p.WEB.H264-XWT
+Dark.Side.Of.The.Ring.S07E03.1080p.WEB.h264-BAE
+Dark.Side.Of.The.Ring.S07E04.1080p.WEB.h264-BAE
+Dark.Side.Of.The.Ring.S07E05.1080p.WEB.h264-BAE
+Dark.Side.Of.The.Ring.S07E06.1080p.WEB.h264-BAE
+Disclosure Day (2026) (2160p iT WEB-DL Hybrid H265 DV HDR10+ DDP Atmos 5.1 English - HONE).mkv
+Drivers.Ed.Vorfahrt.fuer.die.Liebe.2025.German.DL.HDR.2160p.WEB.h265-W4K
+Elephant 2003 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.mkv
+Euphoria.US.S03E07.2160p.WEB.h265-GRACE
+Euphoria.US.S03E08.2160p.WEB.h265-GRACE
+FROM.S04E06.The.Heart.Is.A.Lonely.Hunter.2160p.AMZN.WEB-DL.DDP5.1.H.265-FLUX.mkv
+FROM.S04E07.Best.Laid.Plans.2160p.AMZN.WEB-DL.DDP5.1.H.265-Draken02.mkv
+FROM.S04E08.Heavy.Is.the.Head.2160p.AMZN.WEB-DL.DDP5.1.H.265-Draken02.mkv
+FROM.S04E10.If.A.Tree.Falls.In.The.Forest.2160p.AMZN.WEB-DL.DDP5.1.H.265-XEBEC.mkv
+Fallout.S02.MULTi.iNTERNAL.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HDR10.REMUX-seedpool
+Family.Guy.S24E15.1080p.WEB.h264-EDITH
+Fight.Club.1999.REPACK.2160p.UHD.Blu-ray.Remux.HDR.HEVC.DTS-HD.MA.5.1-CiNEPHiLES.mkv
+Flight.2012.2160p.UHD.BluRay.REMUX.DV.HDR.HEVC.DTS-HD.MA.5.1-BLURANiUM.mkv
+Free.Willy.1993.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv
+Freedom.Writers.2007.1080p.BluRay.REMUX.AVC.DD5.1-BMF
+From.S04E09.The.Calm.Before.2160p.AMZN.WEB-DL.DDP5.1.H.265-NTb.mkv
+Futurama.S11E01.Beef.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB.mkv
+Futurama.S11E02.Catfish.Hunter.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB.mkv
+Grace.2021.S06E01.Left.You.Dead.2160p.AMZN.WEB-DL.DDP5.1.HDR10Plus.H.265-Kitsune.mkv
+Granite Harbour 2022 S01-S03 1080p WEB-DL HEVC x265 BONE
+Green.Lantern.2011.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-DRX.mkv
+Half.Man.S01.2160p.HMAX.WEB-DL.DDP5.1.DV.HDR.H.265-RAWR
+Happiness.1998.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.DD2.0-CiNEPHiLES.mkv
+Heretic.2024.REPACK.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Hoppers.2026.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+House.of.the.Dragon.S03E01.DV.HDR.2160p.WEB.h265-ETHEL
+House.of.the.Dragon.S03E01.PROPER.MULTi.HDR.DV.2160p.WEB.H265-FW
+House.of.the.Dragon.S03E02.2160p.WEB.h265-ETHEL
+House.of.the.Dragon.S03E03.2160p.HMAX.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-N1H4L.mkv
+House.of.the.Dragon.S03E04.2160p.WEB.H265-CAKES
+House.of.the.Dragon.S03E05.2160p.WEB.H265-CAKES
+House.of.the.Dragon.S03E06.DV.HDR.2160p.WEB.H265-CAKES
+House.of.the.Dragon.S03E07.DV.HDR.2160p.WEB.H265-CAKES
+IN.THE.GREY.2026.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-SCOPE.mkv
+In the Grey 2026 2160p UHD Blu-ray Remux HDR HEVC TrueHD 7.1 Atmos.mkv
+Iron.Maiden.Burning.Ambition.2026.DOC.VOSTFR.HDR.2160p.WEB.H265-FW
+It.Was.Just.an.Accident.2025.2160p.UHD.Blu-ray.Remux.SDR.HEVC.DTS-HD.MA.5.1-CiNEPHiLES.mkv
+Ja, Chef! XII. - 1. del.mkv
+Ja, Chef! XII. - 2. del.mkv
+Ja.Chef.S12E03.SLOVENiAN.1080p.WEB-DL.x264-INFiRE.mkv
+Ja.Chef.S12E04.SLOVENiAN.1080p.WEB-DL.x264-INFiRE.mkv
+Ja.Chef.S12E05.1080p.WEB-DL.x264-darkside.mkv
+Ja.Chef.S12E06.SLOVENiAN.1080p.WEB-DL.x264-INFiRE.mkv
+Ja.Chef.S12E07.SLOVENiAN.1080p.WEB-DL.x264-INFiRE.mkv
+Ja.chef
+Jeff Buckley - Grace (2022) [FLAC 24-192]
+Kastanjemanden.S02.2160p.NF.WEB-DL.DD+5.1.DoVi.HDR.H.265-playWEB
+Kendrick Lamar - DAMN. (2017) [CD FLAC]
+Kendrick Lamar - GNX (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️
+Kendrick Lamar - Mr. Morale & The Big Steppers (2022) [24Bit-48kHz] FLAC [PMEDIA] ⭐️
+Kendrick Lamar - Section.80 [2011] [FLAC]
+Kendrick_Lamar-To_Pimp_A_Butterfly-24BIT-WEB-FLAC-2015-TiMES
+Kendrick_Lamar-good_kid_m.A.A.d_city-Reissue_Deluxe_Edition-2CD-FLAC-2013-PERFECT
+La.ceremonie.AKA.A.Judgement.in.Stone.1995.1080p.BluRay.Remux.AVC.DTS-FLAC2.0-SoLaR.mkv
+Little.Trouble.Girls.2025.2160p.WEB.H265-AFO
+Madagascar Escape 2 Africa 2008 2160p UHD Blu-ray Remux HEVC DV TrueHD 7.1 Atmos-HDT.mkv
+Michael 2026 2160p UHD Blu-ray Remux HEVC DV TrueHD 7.1 Atmos-ArteLabo.mkv
+Michael.2026.2160p.WEB.h265-GRACE
+Murder.Before.Evensong.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR
+Mystic River 2003 1080p Blu-ray Remux VC-1 DTS-HD MA 5.1 - KRaLiMaRKo
+Obsession.2025.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Ozark (2017) S04 (2160p NF WEB-DL Hybrid H265 DV HDR DDP 5.1 English - HONE)
+Ozark.S01-S03.2160p.NF.WEB-DL.HDR.DD+5.1-Pahe.in
+Petelinji.zajtrk.2007.SLOVENiAN.1080p.WEB-DL.x264-INFiRE.mp4
+Pressure (2026) (2160p YKW WEB-DL Hybrid H265 DV HDR DDP Atmos 5.1 English - HONE).mkv
+Pressure.2026.2160p.UHD.BluRay.REMUX.DV.HDR.HEVC.TrueHD.7.1.Atmos-BLURANiUM.mkv
+Princess.Mononoke.1997.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.DTS-HD.MA.5.1-CiNEPHiLES.mkv
+Project.Hail.Mary.2026.Hybrid.2160p.UHD.Blu-ray.Remux.DV.HDR10P.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Rafa.S01.HDR.2160p.WEB.h265-EDITH
+Rick.and.Morty.S09E01.There's.Something.About.Morty.1080p.AMZN.WEB-DL.DDP5.1.H.264-playWEB.mkv
+Rick.and.Morty.S09E02.MULTi.1080p.WEB.H264-FW
+Rick.and.Morty.S09E03.Rick.Fu.Hustle.1080p.AMZN.WEB-DL.DDP5.1.H.264-playWEB.mkv
+Rick.and.Morty.S09E04.1080p.WEB.h264-EDITH
+Rick.and.Morty.S09E05.Jer.Bud.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv
+Rick.and.Morty.S09E06.Erickerhead.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv
+Rick.and.Morty.S09E07.Mortgully.The.Last.Rickforest.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv
+Rick.and.Morty.S09E08.1080p.WEB.h264-EDITH
+Rick.and.Morty.S09E09.Salute.Your.Morts.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv
+Rick.and.Morty.S09E10.Field.of.Dreams.1080p.AMZN.WEB-DL.DDP5.1.H.264-playWEB.mkv
+Salo.o.le.120.giornate.di.Sodoma.1975.AKA.Salo.or.the.120.Days.of.Sodom.DUAL.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.FLAC.1.0-CiNEPHiLES.mkv
+Scary.Movie.2.2001.Hybrid.REPACK.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-BLURANiUM.mkv
+Scary.Movie.3.2003.Unrated.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-BLURANiUM.mkv
+Scary.Movie.4.2006.1080p.Remux.MPEG-2.DTS-HD.MA.5.1-playBD
+Scary.Movie.5.2013.Unrated.1080p.BluRay.REMUX.AVC.DTS-HD.HRA.5.1-BLURANiUM.mkv
+Scary.Movie.Extended.Cut.2026.2160p.REPACK.AMZN.WEB-DL.DDP5.1.HEVC-KyoGo.mkv
+Shetland S04 1080p iP WEB-DL AAC 2.0 H.264-WhiskeyJack
+Silo.2023.S03E03.A.Dark.Web.2160p.ATV.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-DUDU.mkv
+Silo.S03E01.HDR.2160p.WEB.h265-ETHEL
+Silo.S03E02.2160p.WEB.h265-ETHEL
+Silo.S03E03.2160p.WEB.h265-ETHEL
+Silo.S03E04.DV.2160p.WEB.H265-CAKES
+Silo.S03E05.2160p.WEB.H265-CAKES
+Silo.S03E06.HDR.2160p.WEB.H265-CAKES
+Sirat.2025.2160p.MVSTP.WEB-DL.DDP5.1.HDR.H.265-HDZ.mkv
+Sirat.2025.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
+Sniper The White Raven 2022 BluRay 1080p MULTi REMUX AVC DTS-HD MA 5.1-LEGi0N
+Spider-Noir.S01.COLOR.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-DRX
+Squaring.the.Circle.The.Story.of.Hipgnosis.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-WINX.mkv
+Star.City.S01E01.HDR.2160p.WEB.h265-GRACE
+Star.City.S01E01.The.Eyes.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Star.City.S01E02.HDR.2160p.WEB.h265-GRACE
+Star.City.S01E03.Bad.Dancer.REPACK.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Star.City.S01E04.Dark.Forest.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Star.City.S01E05.2160p.WEB.h265-GRACE
+Star.City.S01E06.MULTi.HDR.DV.2160p.WEB.H265-FW
+Star.City.S01E07.HDR.2160p.WEB.h265-GRACE
+Star.City.S01E08.HDR.2160p.WEB.h265-GRACE
+Stonemouth S01 1080p webdl x264
+Stranger.Things.S01.2160p.UHD.Blu-ray.Remux.HDR10.DoVi.CMv4.0.HEVC.DTS-HD.MA.5.1-SiCFoI
+Stranger.Things.S02.2160p.UHD.Blu-ray.Remux.HDR10.DoVi.CMv4.0.HEVC.DTS-HD.MA.5.1-SiCFoI
+Stranger.Things.S03.iNTERNAL.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HDR10.REMUX-seedpool
+Stranger.Things.S04.iNTERNAL.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HDR10.REMUX-seedpool
+Stranger.Things.S05.2160p.UHD.Blu-ray.Remux.HDR10.DoVi.CMv4.0.HEVC.TrueHD.7.1.Atmos-SiCFoI
+Suburra.Blood.on.Rome.S03.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-SMURF
+Sugar.2024.S02E02.NORDiC.2160p.SDR.WEB-DL.DDP5.1.Atmos.H.265-NorTekst
+Sugar.2024.S02E03.HDR.2160p.WEB.h265-ETHEL
+Sugar.2024.S02E04.2160p.WEB.h265-ETHEL
+Sugar.2024.S02E05.2160p.WEB.H265-CAKES
+Sugar.2024.S02E06.HDR.2160p.WEB.H265-CAKES
+Sugar.2024.S02E07.HDR.2160p.WEB.h265-ETHEL
+Sugar.2024.S02E08.2160p.WEB.h265-ETHEL
+Sugar.S02E01.Home.Away.from.Home.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Sugar.S02E01.Home.Away.from.Home.REPACK.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Supergirl.2026.HDR.2160P.WEB.H265-POKE
+Ted.Lasso.S01.2160p.UHD.Blu-ray.Remux.HDR10+.DV.HEVC.DTS-HD.MA.5.1-SiCFoI
+Ted.Lasso.S02.2160p.UHD.Blu-ray.Remux.HDR10+.DV.HEVC.DTS-HD.MA.5.1-SiCFoI
+Ted.Lasso.S03.2160p.UHD.Blu-ray.Remux.HDR10+.DV.HEVC.DTS-HD.MA.5.1-SiCFoI
+Ted.Lasso.S04E01.2160p.WEB.H265-CAKES
+The Christophers 2025 2160p iT WEB-DL DDP5 1 Atmos HDR H 265-SCOPE.mkv
+The Devil Wears Prada 2 2026 iNTERNAL BluRay 2160p UHD MULTi REMUX HEVC (10bit) DV Atmos 7.1-Aisha
+The Dropout (2022) S01 (2160p DSNP WEB-DL Hybrid H265 DV HDR DDP 5.1 English - HONE)
+The Goo Goo Dolls - Dizzy Up The Girl (1998) Flac
+The Light Between Oceans 2016 Bluray Remux 1080p AVC DTS-HD MA 7.1 - EFPG
+The.American.Experiment.S01.DOC.MULTi.1080p.WEB.x264-FW
+The.Bear.S05.MULTi.2160p.HDR.DV.WEB.H265-FW
+The.Bear.S05E01.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E02.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E03.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E04.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E05.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E06.HDR.2160p.WEB.h265-ETHEL
+The.Bear.S05E07.HDR.2160p.WEB.h265-ETHEL
+The.Boys.S05E08.Blood.and.Bone.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-RUDR.mkv
+The.Boys.S05E08.PROPER.2160P.WEB.H265-POKE
+The.Chestnut.Man.S01E01.HDR.2160p.WEB.H265-CROiSSANTS
+The.Chestnut.Man.S01E02.HDR.2160p.WEB.H265-CROiSSANTS
+The.Chestnut.Man.S01E03.HDR.2160p.WEB.H265-CROiSSANTS
+The.Chestnut.Man.S01E04.HDR.2160p.WEB.H265-CROiSSANTS
+The.Chestnut.Man.S01E05.HDR.2160p.WEB.H265-CROiSSANTS
+The.Chestnut.Man.S01E06.HDR.2160p.WEB.H265-CROiSSANTS
+The.Crow.Girl.S02E01.DV.2160p.WEB.h265-ETHEL
+The.Crow.Girl.S02E02.DV.2160p.WEB.h265-ETHEL
+The.Crow.Girl.S02E03.DV.2160p.WEB.h265-ETHEL
+The.Crow.Girl.S02E04.HDR.2160p.WEB.h265-ETHEL
+The.Crow.Girl.S02E05.DV.2160p.WEB.h265-ETHEL
+The.Crow.Girl.S02E06.DV.2160p.WEB.h265-ETHEL
+The.Dark.Wizard.S01.DOC.VOSTFR.1080p.WEB.H265-FW
+The.Death.of.Robin.Hood.2026.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-SCOPE.mkv
+The.Devil.Wears.Prada.2.2026.HDR.2160P.WEB.H265.REPACK-POKE
+The.Drama.2026.iNTERNAL.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HDR10.REMUX-seedpool.mkv
+The.Hollow.S01-S02.1080p.NF.WEB-DL.DD+5.1.H.264-playWEB
+The.Last.Waltz.1978.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv
+The.Mexican.2001.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+The.Sheep.Detectives.2026.HDR.2160p.WEB.h265-ETHEL
+The.Woman.in.the.Wall.S01.2160p.PMTP.WEB-DL.DDP5.1.HDR.H.265-NTb
+Tuner.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-SCOPE.mkv
+Unknown.Number.The.High.School.Catfish.2025.2160p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-XEBEC.mkv
+White.Chicks.2004.Unrated.1080p.AMZN.WEB-DL.DDP5.1.H264-FLUX
+Widow.s.Bay.S01E06.Our.History.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-BLOOM.mkv
+Widow.s.Bay.S01E07.Seasickness.REPACK.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Widow.s.Bay.S01E08.Your.Baggage.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Widows.Bay.S01E01.MULTi.HDR.DV.2160p.WEB.H265-FW
+Widows.Bay.S01E02.MULTi.HDR.DV.2160p.WEB.H265-FW
+Widows.Bay.S01E03.MULTi.HDR.DV.2160p.WEB.H265-FW
+Widows.Bay.S01E04.MULTi.HDR.DV.2160p.WEB.H265-FW
+Widows.Bay.S01E05.MULTi.HDR.DV.2160p.WEB.H265-FW
+Widows.Bay.S01E06.DV.2160p.WEB.h265-GRACE
+Widows.Bay.S01E09.HDR.2160p.WEB.h265-GRACE
+Widows.Bay.S01E10.2160p.WEB.h265-ETHEL
+Your.Friends.Neighbors.S02E10.The.Night.of.the.Hunter.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Your.Friends.Neighbours.S02E08.I.Feel.Lost.Without.Me.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BLOOM.mkv
+Your.Friends.and.Neighbors.S02E09.HDR.2160p.WEB.h265-GRACE
+www.UIndex.org    -    Scary Movie 2000 REPACK BluRay 1080p DTS-HD MA 5 1 AVC HYBRID REMUX-FraMeSToR
+www.UIndex.org    -    Shetland S10E06 Episode 6 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune
