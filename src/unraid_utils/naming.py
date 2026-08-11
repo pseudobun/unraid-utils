@@ -40,12 +40,14 @@ def default_season_dirname(season: int) -> str:
     return "Specials" if season == 0 else f"Season {season}"
 
 
-def find_season_dir(show_dir: RealPath, season: int) -> RealPath | None:
-    """An existing directory for this season, searched across all branches.
+def find_season_dirname(show_dir: RealPath, season: int) -> str | None:
+    """The *name* an existing season directory uses, searched across branches.
 
-    A show folder commonly exists on several disks at once, and the season
-    folder we want may be on a different one from the show folder we were
-    handed. Returns the first match, preferring the branch we were given.
+    Only the name is returned, never the path. A show is typically spread over
+    several disks, so the existing directory may be on a different branch from
+    the source file — and a hardlink cannot cross branches. Reusing the name
+    while rooting it on the caller's branch satisfies both constraints: shfs
+    merges identically-named directories, so Plex still sees one folder.
     """
     candidates: list[Path] = [Path(show_dir)]
     branch = branch_of(show_dir)
@@ -66,18 +68,37 @@ def find_season_dir(show_dir: RealPath, season: int) -> RealPath | None:
             continue
         for entry in entries:
             if entry.is_dir() and season_from_dirname(entry.name) == season:
-                return RealPath(entry)
+                return entry.name
     return None
 
 
-def season_dir_for(show_dir: RealPath, season: int) -> tuple[RealPath, bool]:
-    """Where this season's files go.
+def find_season_dir(show_dir: RealPath, season: int) -> RealPath | None:
+    """An existing season directory on this specific branch, if there is one."""
+    name = None
+    base = Path(show_dir)
+    if base.is_dir():
+        try:
+            for entry in sorted(base.iterdir()):
+                if entry.is_dir() and season_from_dirname(entry.name) == season:
+                    name = entry.name
+                    break
+        except OSError:
+            return None
+    return RealPath(base / name) if name else None
 
-    Returns (path, exists). When it does not exist the path is on the *given*
-    show_dir's branch — the caller is expected to have chosen that branch to
-    match the source file's disk, since a hardlink cannot cross branches.
+
+def season_dir_for(show_dir: RealPath, season: int) -> tuple[RealPath, bool]:
+    """Where this season's files go, always on `show_dir`'s own branch.
+
+    Returns (path, exists_on_this_branch). The name is borrowed from whatever
+    the show already uses anywhere — including `Specials` and suffixed names
+    like `Season 1 - Subtitle` — so we never create a second, differently-named
+    folder for the same season. But the path stays on the branch we were given,
+    because the caller chose that branch to match the source file's disk.
     """
-    existing = find_season_dir(show_dir, season)
-    if existing is not None:
-        return existing, True
-    return RealPath(Path(show_dir) / default_season_dirname(season)), False
+    on_this_branch = find_season_dir(show_dir, season)
+    if on_this_branch is not None:
+        return on_this_branch, True
+
+    name = find_season_dirname(show_dir, season) or default_season_dirname(season)
+    return RealPath(Path(show_dir) / name), False

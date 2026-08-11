@@ -81,3 +81,46 @@ class TestSeasonDirFor:
 
     def test_missing_show_dir_is_not_an_error(self, tmp_path):
         assert find_season_dir(RealPath(tmp_path / "absent"), 1) is None
+
+
+class TestCrossBranchPlacement:
+    """A season directory must land on the caller's branch, whatever branch an
+    existing one happens to be on.
+
+    Found by a dry run: `find_season_dir` searched every branch and returned the
+    existing `Season 12` on disk6, but the source file was on disk3 — so
+    "reuse the existing directory" defeated "place it on the source's disk" and
+    produced a cross-device link that cannot succeed. Borrowing the *name* while
+    rooting it on the source's branch satisfies both; shfs merges directories
+    that share a name.
+    """
+
+    def test_borrows_the_name_but_stays_on_this_branch(self, tmp_path, monkeypatch):
+        from unraid_utils import naming
+
+        disk_a, disk_b = tmp_path / "disk1", tmp_path / "disk2"
+        show_rel = "plex/shows/JoJo"
+        (disk_a / show_rel / "Season 1 - Phantom Blood").mkdir(parents=True)
+        (disk_b / show_rel).mkdir(parents=True)
+
+        class B:
+            def __init__(self, mount):
+                self.mount = mount
+            @property
+            def name(self):
+                return self.mount.name
+
+        monkeypatch.setattr(naming, "branches", lambda: (B(disk_a), B(disk_b)))
+        monkeypatch.setattr(naming, "branch_of",
+                            lambda p: B(disk_b) if disk_b in Path(p).parents
+                            or p == disk_b else B(disk_a))
+        monkeypatch.setattr(
+            naming, "sibling_on_branch",
+            lambda real, br: RealPath(br.mount / Path(real).relative_to(
+                disk_b if disk_b in Path(real).parents else disk_a)))
+
+        path, existed = season_dir_for(RealPath(disk_b / show_rel), 1)
+
+        assert Path(path).name == "Season 1 - Phantom Blood", "name not reused"
+        assert disk_b in Path(path).parents, "must stay on the given branch"
+        assert existed is False, "does not yet exist on this branch"
