@@ -126,3 +126,26 @@ class TestAgainstRealCorpus:
             value = getattr(parse_release(name), kind_field)
             assert isinstance(value, tuple)
             assert all(isinstance(v, int) for v in value)
+
+
+class TestParentFolderFallback:
+    """A whole season can carry no season marker in any filename.
+
+    `Ja, Chef! - 1. del.mp4` ... `10. del.mp4` inside a folder named
+    `Ja.Chef.S04.1080p.WEBRip.x264-ugorazd`. The filenames yield nothing, so the
+    parent supplies the season — but only as a fallback, never as an override.
+    """
+
+    def test_filename_alone_yields_no_season(self):
+        info = parse_release("Ja, Chef! - 1. del.mp4")
+        assert info.seasons == ()
+
+    def test_parent_folder_yields_the_season(self):
+        info = parse_release("Ja.Chef.S04.1080p.WEBRip.x264-ugorazd")
+        assert info.seasons == (4,)
+        assert info.kind is MediaKind.SEASON_PACK
+
+    def test_filename_season_still_wins(self):
+        """The fallback must never override a season the filename stated."""
+        info = parse_release("Ja.Chef.S07E03.1080p.mkv")
+        assert info.seasons == (7,)

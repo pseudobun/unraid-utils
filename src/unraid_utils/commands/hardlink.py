@@ -78,6 +78,16 @@ def build_plan(ctx: RunContext, source_root: Path, show_dir: Path,
 
             info = parse_release(name)
             season = _season_for(info)
+            from_parent = False
+            if season is None:
+                # Some releases carry no season in the filename at all — a
+                # whole season of `Ja, Chef! - 1. del.mp4` inside a folder
+                # named `...S04...`. Fall back to the immediate parent, and
+                # only ever to fill a gap: this can never override a season the
+                # filename stated, which is what made v1 file things under
+                # `Season 20` after matching `1920x1080` somewhere in the path.
+                season = _season_for(parse_release(Path(dirpath).name))
+                from_parent = season is not None
             if season is None:
                 skipped.append((path, f"no single season ({info.kind})"))
                 continue
@@ -103,6 +113,8 @@ def build_plan(ctx: RunContext, source_root: Path, show_dir: Path,
             season_dir, existed = season_dir_for(show_on_branch, season)
             dest = Path(season_dir) / name
             note = "existing season dir" if existed else "new season dir"
+            if from_parent:
+                note += ", season from parent folder"
             plans.append(Plan(Path(real_source), dest, season, info,
                               f"{note} on {branch.name}"))
 
